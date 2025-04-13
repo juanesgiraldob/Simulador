@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/Desktop/POO/Simulador/src/autonoma/Simulador/excepciones/VehiculoAccidentadoException.java</file>
+            <file>file:/C:/Users/DELL/Desktop/POO/Simulador/src/autonoma/Simulador/excepciones/ExcepcionVehiculo.java</file>
+            <file>file:/C:/Users/DELL/Desktop/POO/Simulador/src/autonoma/Simulador/models/IVehiculo.java</file>
+            <file>file:/C:/Users/DELL/Desktop/POO/Simulador/src/autonoma/Simulador/excepciones/VehiculoPatinaException.java</file>
+            <file>file:/C:/Users/DELL/Desktop/POO/Simulador/src/autonoma/Simulador/models/VehiculoBase.java</file>
+            <file>file:/C:/Users/DELL/Desktop/POO/Simulador/src/autonoma/Simulador/excepciones/VehiculoDetenidoException.java</file>
+            <file>file:/C:/Users/DELL/Desktop/POO/Simulador/src/autonoma/Simulador/excepciones/VehiculoYaEncendidoException.java</file>
+            <file>file:/C:/Users/DELL/Desktop/POO/Simulador/src/autonoma/Simulador/excepciones/VehiculoApagadoException.java</file>
+            <file>file:/C:/Users/DELL/Desktop/POO/Simulador/src/autonoma/Simulador/excepciones/VehiculoYaApagadoException.java</file>
+        </group>
+    </open-files>
+</project-private>
